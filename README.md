@@ -2,7 +2,7 @@
 
 On my first day of coding, I learned the basics of programming languages, markdowns , headings, bold , italics, how to use GitHub and more .  feeling a mix of curiosity and excitement.My journey is to learn and  practice more.
  contents
- ## What is Markdown
+ ### What is Markdown
  
  # Why Use Markdowns
  
