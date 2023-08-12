@@ -3,7 +3,7 @@
 On my first day of coding, I learned the basics of programming languages, markdowns , headings, bold , italics, how to use GitHub and more also feeling a mix of curiosity and excitement.My journey is to learn and  practice more.
  contents
 ### What is Markdown
-(***) Markdown is a lightweight markup language that is commonly used for formatting text on the web. It allows you to easily add formatting elements to plain text, such as headings, bold and italic text, lists, links, and more.
+- Markdown is a lightweight markup language that is commonly used for formatting text on the web. It allows you to easily add formatting elements to plain text, such as headings, bold and italic text, lists, links, and more.
 #### Why Use Markdowns
 
 ***
