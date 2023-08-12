@@ -6,7 +6,7 @@ On my first day of coding, I learned the basics of programming languages, markdo
 - Markdown is a lightweight markup language that is commonly used for formatting text on the web. It allows you to easily add formatting elements to plain text, such as headings, bold and italic text, lists, links, and more.
 #### Why Use Markdowns
 
-***
+- Markdown is used because it's simple and efficient. It allows easy formatting of text without complex coding. It's readable in its plain text form. It's widely supported in various applications. Markdown simplifies creating content for the web. It's great for writing documentation, blog posts, and more.
 #### What symbol will create a heading in Markdown?
 #### How many do you need to create the largest heading?
 #### How many do you need to create the smallest heading?
