@@ -20,7 +20,7 @@ On my first day of coding, I learned the basics of programming languages, markdo
  ***my name is Mahamud***
 
 ### How do you create a link with Markdown?
-- To creat a link with markdown [ TEXT ] FOLLOWED BY THE URL ADDREASS AND ( and )  [MY read me notes ](https://mhassan206.github.io/reading-notes/).
+- To creat a link with markdown [ TEXT ] ( URL ) FOLLOWED BY THE URL ADDREASS AND ( and )  [MY read me notes ](https://mhassan206.github.io/reading-notes/).
 ### What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
 
 - To create an unordered list (-), asterisks (*), or plus signs (+) in front of line items. Indent one or more items to create a nested list.
