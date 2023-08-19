@@ -1,3 +1,5 @@
+[Back to homepage](https://mhassan206.github.io/reading-notes/)
+
 # First Day  into the World of Coding
 
 On my first day of coding, I learned the basics of programming languages, markdowns , headings, bold , italics, how to use GitHub and more also feeling a mix of curiosity and excitement.My journey is to learn and  practice more.
@@ -27,5 +29,7 @@ On my first day of coding, I learned the basics of programming languages, markdo
 - Code follow is good academy
   * they teach codes
   + students learn coding and other computer technologies 
-- im currently a student  at code fellows bootcamp 
- 
+- im currently a student  at code fellows bootcamp .
+  
+[Back to homepage](https://mhassan206.github.io/reading-notes/)
+
